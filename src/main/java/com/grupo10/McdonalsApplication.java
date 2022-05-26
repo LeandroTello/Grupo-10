@@ -1,4 +1,4 @@
-package com.grupo10.Mcdonals;
+package com.grupo10;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
